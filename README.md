@@ -1,2 +1,2 @@
 # KBEngine
-KBEngine is a lightweight game engine written in C on top of legacy OpenGL. It is mostly here for posterity's sake.
+KBEngine is a lightweight game engine written in C on top of legacy OpenGL. It is mostly here for posterity's sake. It was used for a couple experimentally with the endless runner Star Hound and a couple internal prototypes by Kieffer Bros.
